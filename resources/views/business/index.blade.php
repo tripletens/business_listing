@@ -2,8 +2,8 @@
 
 @section('content')
     <div class="jumbotron text-center">
-        <h1>Admin Business List Page </h1>
-        <p> This is the Admin Business List Page </p>
+        <h1>Business List Page </h1>
+        <p> This is the Business List Page </p>
         <div class="container-fluid ">
             <div class="row">
                 @include('inc.messages')
